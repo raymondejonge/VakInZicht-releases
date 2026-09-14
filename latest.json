@@ -1,11 +1,11 @@
 {
-  "version": "1.0.19",
-  "notes": "Stabiele update waarmee klassen veilig achteraf aan beoordelingen kunnen worden toegevoegd en leerlingidentiteit, leerlingnummers en klassenhistorie betrouwbaarder worden beheerd.",
-  "pub_date": "2026-09-14T09:53:15Z",
+  "version": "1.0.20",
+  "notes": "Stabiele update voor betrouwbaardere resultaten, de herstelde analysewizard, algemene leerdoelen en complete beoordelingsoverzichten met periodekeuze en verbeterde PDF-export.",
+  "pub_date": "2026-09-14T22:43:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeHlDWEVJSmFlSlBZcFEya0ZEdGxnekcrZjJvK0FUWmdBbW0zTGZNTjZxSS92N05hcXloTks3NWV0TjZYUnFuR3BJcEJvTVBwcEV6VzQ1Z1d0T0t3ZkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mzc5NTU4CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CkJRTGUxWDFMbkYzVUY0YlBBMjA2YWJsRmhMOEIxYVJnOVMzdm5IMnJBQ3RFbWVZN0wreGpzOUs1RkpXeG9PQWsvUGVWNW5nYkoyOWJ6NVNJcGNreERBPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.0.19_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeHpkM0hQZW9wQjgzb1pTd1dpRkgvMkFBMndEdkh4WjJ4bVE3QllPWk50N0VxK0ZRcW9Hc3EyTGJ2UXNnZXdPNHVya1ZMK0tYcjN0NktacVNMM1ArSFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI1NzYzCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CmZtRlJIRXZBaVFKVEFoYTl4L0MxNEVVWUdjTXdmVXZQWGpWK3grR0prMFVRNHlwRnMzM3hiZjFHaER6SG9aRXlDZzFtczc0WDFzdmVJTXBIcnRacUNnPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.0.20_aarch64.app.tar.gz"
     }
   }
 }
