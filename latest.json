@@ -1,11 +1,11 @@
 {
-  "version": "1.0.18",
-  "notes": "Stabiele gebruiks- en overzichtsupdate met een compactere resultatenwizard, uitgebreidere selecties en gemiddelden, herstelde sorteeracties, verbeterde rubricbediening en stapsgewijze hulp.",
-  "pub_date": "2026-09-14T08:52:04Z",
+  "version": "1.0.19",
+  "notes": "Stabiele update waarmee klassen veilig achteraf aan beoordelingen kunnen worden toegevoegd en leerlingidentiteit, leerlingnummers en klassenhistorie betrouwbaarder worden beheerd.",
+  "pub_date": "2026-09-14T09:53:15Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDFHUURrUml4RzJrMkRRbkxBRGJTT2xwTENpMlhLVVNXdWtlRUUyK0U0RFUvL0ZHRG5lYTF5MGJZOXNncmxERUdXOG9tVXFSUStvT0w1ZkJRYkNhcVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mzc1NzAyCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CmFEYjJMWUtXSldzQ3lSRDRiOW5kTk9maDkxYlMxblNaeUJDelkwNVFPN0hmM2UwVURVeG9GMnh1UHhFOTNrb1NPaW9GQzVGMFFPN1QreEIzVzJsdkJBPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.0.18_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeHlDWEVJSmFlSlBZcFEya0ZEdGxnekcrZjJvK0FUWmdBbW0zTGZNTjZxSS92N05hcXloTks3NWV0TjZYUnFuR3BJcEJvTVBwcEV6VzQ1Z1d0T0t3ZkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mzc5NTU4CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CkJRTGUxWDFMbkYzVUY0YlBBMjA2YWJsRmhMOEIxYVJnOVMzdm5IMnJBQ3RFbWVZN0wreGpzOUs1RkpXeG9PQWsvUGVWNW5nYkoyOWJ6NVNJcGNreERBPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.0.19_aarch64.app.tar.gz"
     }
   }
 }
