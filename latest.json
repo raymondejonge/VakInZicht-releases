@@ -1,11 +1,11 @@
 {
-  "version": "1.0.17",
-  "notes": "Eerste interne proefupdate via het ondertekende VakInZicht-updatekanaal. De appfuncties zijn gelijk aan de geteste brugversie 1.0.16; deze release test veilig downloaden, verifiëren, installeren en herstarten.",
-  "pub_date": "2026-09-12T20:59:19Z",
+  "version": "1.0.18",
+  "notes": "Stabiele gebruiks- en overzichtsupdate met een compactere resultatenwizard, uitgebreidere selecties en gemiddelden, herstelde sorteeracties, verbeterde rubricbediening en stapsgewijze hulp.",
+  "pub_date": "2026-09-14T08:52:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeHpxMWZJVnlGL2J3dVVtRGFGalpjdXJvbDJ4bzZEYkQwWlFPMVFtNkxhSUduaWc2ZHBsYUJydEdnQTBGS2lDTDhaZU1Od3R6a0dyazB0bEF0c2grd0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjQ2NzM4CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CmNVQWVOYWtPZ3d2UFNLQVpUL1g1WXZNWjNacjdBenNkbDloQ2JVdkZHU0NlNFM4K3dWMSt0U0tMQ3daa24vM1E5OVlpci8yTXMzaUIwMFdRckdqTkNnPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.0.17_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDFHUURrUml4RzJrMkRRbkxBRGJTT2xwTENpMlhLVVNXdWtlRUUyK0U0RFUvL0ZHRG5lYTF5MGJZOXNncmxERUdXOG9tVXFSUStvT0w1ZkJRYkNhcVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mzc1NzAyCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CmFEYjJMWUtXSldzQ3lSRDRiOW5kTk9maDkxYlMxblNaeUJDelkwNVFPN0hmM2UwVURVeG9GMnh1UHhFOTNrb1NPaW9GQzVGMFFPN1QreEIzVzJsdkJBPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.0.18_aarch64.app.tar.gz"
     }
   }
 }
