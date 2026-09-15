@@ -1,11 +1,11 @@
 {
-  "version": "1.0.20",
-  "notes": "Stabiele update voor betrouwbaardere resultaten, de herstelde analysewizard, algemene leerdoelen en complete beoordelingsoverzichten met periodekeuze en verbeterde PDF-export.",
-  "pub_date": "2026-09-14T22:43:11Z",
+  "version": "1.0.22",
+  "notes": "Stabiele update voor beoordelingsspecifiek aanpassen van rubrics, een rustigere bediening en verbeterde beoordelingsoverzichten, met volledig behoud van bestaande gegevens.",
+  "pub_date": "2026-09-15T11:51:39Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeHpkM0hQZW9wQjgzb1pTd1dpRkgvMkFBMndEdkh4WjJ4bVE3QllPWk50N0VxK0ZRcW9Hc3EyTGJ2UXNnZXdPNHVya1ZMK0tYcjN0NktacVNMM1ArSFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI1NzYzCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CmZtRlJIRXZBaVFKVEFoYTl4L0MxNEVVWUdjTXdmVXZQWGpWK3grR0prMFVRNHlwRnMzM3hiZjFHaER6SG9aRXlDZzFtczc0WDFzdmVJTXBIcnRacUNnPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.0.20_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDYzbGVJdjZQc2xBWFp4ejRKbERmTWllYWVyWU9pSWNMc3NDMmZpRG05WER1NnVhYU1oam1RUWZraktFSVFMem9qdWhvRXpYald6b0NhQ0JLZ05ZdUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDczMDIwCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CkluMHEwc09adnMrdExzSnVUak5TUXFWRVFmZnVvS3NFSnh5bXhlVUlhWmFQb2J1RTdFNDJzcU5JaldXK2owSUdQckdVNGJKQVZpd1Qxbmk4S1pvaERnPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.0.22_aarch64.app.tar.gz"
     }
   }
 }
