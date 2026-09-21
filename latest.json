@@ -1,11 +1,11 @@
 {
-  "version": "1.0.24",
-  "notes": "Stabiele update met uitgebreidere rubricregels, veilige individuele en groepsbeoordeling, afzonderlijke kerndoel- en vaardigheidsanalyse, configureerbare docentenlijsten, verbeterde PDF-paginering, functionele hulp en gekoppelde schooljaarlestijden. Bestaande gegevens uit 1.0.23 blijven behouden.",
-  "pub_date": "2026-09-20T06:21:33Z",
+  "version": "1.0.25",
+  "notes": "Stabiele update met betrouwbare A4-afdrukken voor docenten- en leerlingenlijsten, verbeterde rubricverantwoording, vaste voorkeurvolgorde en uitgebreidere demogegevens.",
+  "pub_date": "2026-09-21T11:15:39Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDhUTlRPM2dSMlF0b3d6ckhzbStVTzZrK0FBNEUyak1tMEJhd2lQazlLcGREV2xDelFnVFNaS3JKSW9qdmZKN094a0ltNjJoQk13eHBqNU5BTzlmdmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODg1MjAwCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CktvZHRUa01MdElEZmJuSmx5algwaEhJWjVOUmVLRHNiQnFKcy9qcktOVTJvQ2FsenhoUlppMFAxS0ppbHhqb0kvNVh1SFdiNTZSQTdrOUQ1Sk9zMkN3PT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.0.24_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDBBN2svenVNc0RjZlNORS85em41dm45MHNzYjJNcFplMkg0by9qYTkvcEp0WmVISVUrWk1qZStYcHZSbkt5RHdjS3VjWkZLMGdGK2NGd1J5emltRGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTg5Mjc2CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6ClB5am45a25ING00VGlvU3VWVkhNSGFrbFhwcEgzcGlqN0huMmprQTNLeXJoNzllbm5nelg5TWVsOWFlU1ZmRmdqa2tUaEw1bk1EWEZIS0xuNldwekF3PT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.0.25_aarch64.app.tar.gz"
     }
   }
 }
