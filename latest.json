@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Mijn lessen en logboeken, vernieuwde bibliotheek, vmbo-eindtermen en een realistische demo met vijf gerichte controles. Verbeterde signalering bij ontbrekend opdrachtniveau en ongeldige scores.",
-  "pub_date": "2026-09-25T15:43:18.312Z",
+  "version": "1.2.0",
+  "notes": "Vernieuwde focus- en overzichtsmodus, duidelijkere lesregistratie en instellingen, verbeterde afdrukken en klasoverzichten. Lesregistratie op het dashboard staat voor nieuwe gebruikers standaard uit.",
+  "pub_date": "2026-09-28T22:56:39.478Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDRaWGZiY0hTNzJHV3E4ZkErNS83RDRDc01peUxnVHdxVloyVTRsSnk1dVNuUmNCaGg2VEpuS0kwZTdrZFI5cW93TnpZNTMyblZQaHo0ZytwelkzRkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUwOTY3CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6Ci9CM1dwTlRrTncxd1dOYzFvRDk1N0VSWjhmcEVFdmFrRHlUdlFqY2ZwWUV2SDFyV09OMkNYYmRlYmcwY3VMQkpZNlZKSTUxQ3I0dGp0UTdjbXd4S0JnPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.1.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeCtvcHpHazkwNjFBSVl3WVJqWnZVRlViMHN1Y09mcGNKYW8yYlJTM3J0TVpVZk5lSGdyQWlXZ05jYnU0UlFKSWpiVVFUcXBHWVNzYW9jMS9CekdyTUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjM2MTkzCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6ClBJNzBUZFlUR2t3UExHTCtJYUNkais5dEYzL0dUKzRBSGlKVmdZcVJlNjk1WXd2ZFJYN3gzWkZEQmEyanBZTlU4akFZaitPZUk0NVl4WWhLUWp3R0FnPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.0_aarch64.app.tar.gz"
     }
   }
 }
