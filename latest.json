@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "notes": "Vernieuwde focus- en overzichtsmodus, duidelijkere lesregistratie en instellingen, verbeterde afdrukken en klasoverzichten. Lesregistratie op het dashboard staat voor nieuwe gebruikers standaard uit.",
-  "pub_date": "2026-09-28T22:56:39.478Z",
+  "version": "1.2.1",
+  "notes": "Verbeterde lesnotities en klassignalering, direct bewerken van taken en afspraken, en herstel van de terugnavigatie.",
+  "pub_date": "2026-09-29T11:24:16.323Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeCtvcHpHazkwNjFBSVl3WVJqWnZVRlViMHN1Y09mcGNKYW8yYlJTM3J0TVpVZk5lSGdyQWlXZ05jYnU0UlFKSWpiVVFUcXBHWVNzYW9jMS9CekdyTUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjM2MTkzCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6ClBJNzBUZFlUR2t3UExHTCtJYUNkais5dEYzL0dUKzRBSGlKVmdZcVJlNjk1WXd2ZFJYN3gzWkZEQmEyanBZTlU4akFZaitPZUk0NVl4WWhLUWp3R0FnPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDRzRGppVmJiekxHWWNPd1d0ck1Ha0lkNm5YbU5IQWtTd0ZUN1VsNUROYUNPQ3N5cGxnYTMrdmNoMXo2ekcyWWlGV3cxWm1YRkZHSkZGSHdFbkhDMkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjgwODYyCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CnRFLzZScHpZYnBvWTV1RTc2SjU3emx6clpmUG1ISElGZm0yLzNVb2crQWQ2YiticXRXMy9UQ2NQTE1RV1YvS3ppcFpxeEgzMzVwbTdSeFBoNnFQbkFnPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.1_aarch64.app.tar.gz"
     }
   }
 }
