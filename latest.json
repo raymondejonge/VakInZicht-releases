@@ -1,11 +1,11 @@
 {
-  "version": "1.2.2",
-  "notes": "Nieuw post-itbord met slepen, vrije indeling en directe tekstbewerking. Verbeterde lesgeschiedenis, inhaaloverzichten, klasperioden, aftellers, demo, introductie en print/export. Tekstvelden blijven normaal selecteerbaar.",
-  "pub_date": "2026-10-01T12:12:00.870Z",
+  "version": "1.2.3",
+  "notes": "Verbeterde overdracht van staand/liggend naar macOS. Nieuw instellingenblok Toetsweken & eindtoetsen, met handmatige invoer en automatische herkenning bij jaaragenda-import. Gedeelde datums voor jaaragenda, instellingen en aftellers.",
+  "pub_date": "2026-10-01T14:16:09.200Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDBwNTZxUjJVNFZvL1dEYUFKTjJQbjd1TEJuUitLWlJsUVBTYzVhWHJLV0J6dG1USUg1Ync4cktqY1JrOGpWRG40d2FyRzZaSTM2bncyakJWcE4xQ0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODU2NjM3CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6Cm1FOEVuK0R5bThSeG8wQS9LY1ZlckhkL292NnBva3AxWlJmaUk3SnBkcDFyV0cyYnpKTmF2bWhQQ1V4ZlVEOVBkNXFNNm45R2RHWFhJUkU3Y1p1UkJBPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeHpwNXIzL1BsZllHVFdwL05NVHR6aldpZk40OVg0MGhuMkpwMEpPTDZRRk8wTjhFb2NkTUJkZjNUTmU0WGtwTHIxU1d2RVZpdndsOTk3QlRBUnQzcHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODY0MTIxCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6ClgrSVpEM2JZN0RzczNicnkwMDhMMkhDUDJoT25MdnFHa3h5cjJzVjBiWDU1ZWpiOE9IcW1Zc1N4Wll1bjUzRFh6bXpDMjJyeXVzV3dzcTlLRWU5MENBPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.3_aarch64.app.tar.gz"
     }
   }
 }
