@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
-  "notes": "Verbeterde overdracht van staand/liggend naar macOS. Nieuw instellingenblok Toetsweken & eindtoetsen, met handmatige invoer en automatische herkenning bij jaaragenda-import. Gedeelde datums voor jaaragenda, instellingen en aftellers.",
-  "pub_date": "2026-10-01T14:16:09.200Z",
+  "version": "1.2.4",
+  "notes": "Verbeterde rubricafdrukken en aankruisvakjes: dezelfde vector-PDF voor macOS-printer en PDF-export, geïsoleerde browserafdruk en optioneel passend op pagina. Rustige Startbalk met maximaal vijf knoppen per rij. Compact ingeklapte aftellerinstellingen, kleurkeuzes, waarschuwingskleur op beide pagina’s en toetsweekaftrek met standaard leerjaar 4. Alle wijzigingen sinds 1.2.3; maak vooraf een gegevensbackup.",
+  "pub_date": "2026-10-01T19:48:45.177Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeHpwNXIzL1BsZllHVFdwL05NVHR6aldpZk40OVg0MGhuMkpwMEpPTDZRRk8wTjhFb2NkTUJkZjNUTmU0WGtwTHIxU1d2RVZpdndsOTk3QlRBUnQzcHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODY0MTIxCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6ClgrSVpEM2JZN0RzczNicnkwMDhMMkhDUDJoT25MdnFHa3h5cjJzVjBiWDU1ZWpiOE9IcW1Zc1N4Wll1bjUzRFh6bXpDMjJyeXVzV3dzcTlLRWU5MENBPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.3_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDlLVXhBYmZWWjJlcGxSem9OSlZ0TXduVEV4M0hWTlo0TTNZVUF4Yk9ZOEVZNTYzUVFkenZFOXdPbHZPTkk4SE8vVkdvK0srRTA5Q1hwT2lQUVd3bmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODg0MDk1CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CmZPZ3VFeVFNKzhPaUYrV292MW4zdWZ4andHOEQ1UUhIOXowTGpOOVZoTTgzVlN1Mk1ObkV5Y1o1b0V5QTkycHhsbTBPNStmR1N1c29ZaWk2b3VWUUJRPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.4_aarch64.app.tar.gz"
     }
   }
 }
