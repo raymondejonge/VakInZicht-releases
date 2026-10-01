@@ -1,11 +1,11 @@
 {
-  "version": "1.2.4",
-  "notes": "Verbeterde rubricafdrukken en aankruisvakjes: dezelfde vector-PDF voor macOS-printer en PDF-export, geïsoleerde browserafdruk en optioneel passend op pagina. Rustige Startbalk met maximaal vijf knoppen per rij. Compact ingeklapte aftellerinstellingen, kleurkeuzes, waarschuwingskleur op beide pagina’s en toetsweekaftrek met standaard leerjaar 4. Alle wijzigingen sinds 1.2.3; maak vooraf een gegevensbackup.",
-  "pub_date": "2026-10-01T19:48:45.177Z",
+  "version": "1.2.5",
+  "notes": "Consistente rubric- en beoordelingskleuren, eigen theorietoetskleuren, directe klasnavigatie voor Start/Verder/Bekijk en tien gevarieerde demovoorbeelden met unieke titels. Schooljaarbestanden behouden toetsweken, eindtoetsen, doelgroepen en lesuitval. Minder dubbele verwerking bij printopties. Logischer rubric-opslag en alleen gewijzigde onderdelen aanbieden voor de bibliotheek. Maak vooraf een gegevensbackup.",
+  "pub_date": "2026-10-01T21:50:34.461Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDlLVXhBYmZWWjJlcGxSem9OSlZ0TXduVEV4M0hWTlo0TTNZVUF4Yk9ZOEVZNTYzUVFkenZFOXdPbHZPTkk4SE8vVkdvK0srRTA5Q1hwT2lQUVd3bmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODg0MDk1CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CmZPZ3VFeVFNKzhPaUYrV292MW4zdWZ4andHOEQ1UUhIOXowTGpOOVZoTTgzVlN1Mk1ObkV5Y1o1b0V5QTkycHhsbTBPNStmR1N1c29ZaWk2b3VWUUJRPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.4_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeHloQVlUNUUzSkJoNlQ0NzlsZWhuSnFwT2g5YWxFRUUwdWxIdnBzUUpKV2JIc1F6VThnV2V1UWYvV1NqSVF5dXc5RzRMSmV5Qk5GWDVOUUt1eHFqY3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODkxMzg4CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6Ck90TnJaZlZqckVyOER3b051Q0hkZmNwQm9xVTRNSmhoWU03aTV6VmNvVXBEQkN5NmloQ3kxeWZLTHl3dHJnWURNZGl2cTEzcGRsSTZSc3gyQTVHRUJRPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.5_aarch64.app.tar.gz"
     }
   }
 }
