@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
-  "notes": "Verbeterde lesnotities en klassignalering, direct bewerken van taken en afspraken, en herstel van de terugnavigatie.",
-  "pub_date": "2026-09-29T11:24:16.323Z",
+  "version": "1.2.2",
+  "notes": "Nieuw post-itbord met slepen, vrije indeling en directe tekstbewerking. Verbeterde lesgeschiedenis, inhaaloverzichten, klasperioden, aftellers, demo, introductie en print/export. Tekstvelden blijven normaal selecteerbaar.",
+  "pub_date": "2026-10-01T12:12:00.870Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDRzRGppVmJiekxHWWNPd1d0ck1Ha0lkNm5YbU5IQWtTd0ZUN1VsNUROYUNPQ3N5cGxnYTMrdmNoMXo2ekcyWWlGV3cxWm1YRkZHSkZGSHdFbkhDMkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjgwODYyCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CnRFLzZScHpZYnBvWTV1RTc2SjU3emx6clpmUG1ISElGZm0yLzNVb2crQWQ2YiticXRXMy9UQ2NQTE1RV1YvS3ppcFpxeEgzMzVwbTdSeFBoNnFQbkFnPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDBwNTZxUjJVNFZvL1dEYUFKTjJQbjd1TEJuUitLWlJsUVBTYzVhWHJLV0J6dG1USUg1Ync4cktqY1JrOGpWRG40d2FyRzZaSTM2bncyakJWcE4xQ0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODU2NjM3CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6Cm1FOEVuK0R5bThSeG8wQS9LY1ZlckhkL292NnBva3AxWlJmaUk3SnBkcDFyV0cyYnpKTmF2bWhQQ1V4ZlVEOVBkNXFNNm45R2RHWFhJUkU3Y1p1UkJBPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.2_aarch64.app.tar.gz"
     }
   }
 }
