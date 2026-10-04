@@ -1,0 +1,2 @@
+238c6e2e3726d5bfcfe6e489d795370441b138de27d34c0980f4864090b2bdf3  VakInZicht Kunstvakken 1.2.7.pkg
+8a9a06c7695605453687c655fa21d7aa22e0152492fb64e0845a1e4142abc166  VakInZicht-Kunstvakken_1.2.7_aarch64.app.tar.gz

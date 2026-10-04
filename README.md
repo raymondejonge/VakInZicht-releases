@@ -6,11 +6,11 @@ Deze repository bevat geen broncode en geen gebruikersgegevens. `latest.json` ve
 
 De gewone PKG-installer wordt voorlopig rechtstreeks en gecontroleerd met de pilotgebruikers gedeeld. Deze repository is uitsluitend het updatekanaal voor reeds geïnstalleerde brugversies.
 
-## Versie 1.2.6
+## Versie 1.2.7
 
-[Release-uitleg](RELEASE-NOTES-1.2.6.md) ·
-[Installer 1.2.6](VakInZicht%20Kunstvakken%201.2.6.pkg) ·
-[Controlesommen](CHECKSUMS-1.2.6.txt)
+[Release-uitleg](RELEASE-NOTES-1.2.7.md) ·
+[Installer 1.2.7](VakInZicht%20Kunstvakken%201.2.7.pkg) ·
+[Controlesommen](CHECKSUMS-1.2.7.txt)
 
 Versie 1.2.5 blijft behouden: [installer 1.2.5](VakInZicht%20Kunstvakken%201.2.5.pkg)
 en [release-uitleg 1.2.5](RELEASE-NOTES-1.2.5.md). Een downgrade gebeurt handmatig;

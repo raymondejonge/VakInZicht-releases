@@ -1,11 +1,11 @@
 {
-  "version": "1.2.6",
-  "notes": "Mobiele notities optioneel koppelen aan Mijn Taken met gedeelde categorieën. Zelfstandig account activeren voor toegelaten gebruikers en afgeschermd beheer van online toegang. Checklist-post-its met personen of een hele klas, automatisch verbergen na afvinken en terugkijken via het oogje; afgeronde checklists blijven bewaard. Compacte klasweergave. Herstelde SOM-import, behoud van scrollpositie bij leerlingregistratie en duidelijkere instellingen. Contact: info@vakinzicht.nl. Gewone Mac-functies blijven zonder account beschikbaar. Maak vooraf een gegevensback-up; versie 1.2.5 blijft als terugval beschikbaar.",
-  "pub_date": "2026-10-04T16:25:24.715Z",
+  "version": "1.2.7",
+  "notes": "Eigen post-its: Verwijderen met behoud in het Post-itarchief; Bekijken / aanpassen en het archief zijn gewone overzichtspagina’s. Historie met afvinkmomenten, zoeken en opruimen naar bewaarde historie; optioneel automatisch opruimen staat standaard uit. Het oogje toont afgevinkte punten onder openstaande punten. Zichtbare kleurkeuze. Optionele Extra vakken, zoals Mentoraat, voor lessen en registraties, los van kunstvakdashboard en analyses. Rubrics verwijderen met bevestiging en 30 dagen prullenbak; prullenbak leegmaken met bevestiging. Lange dashboardteksten passen binnen hun kader. Maak vooraf een volledige gegevensback-up. Gewone Mac-functies blijven zonder account beschikbaar; bron en installer van 1.2.5 blijven als terugval bewaard.",
+  "pub_date": "2026-10-04T22:46:24.792Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDZtWkI5THRFQU5STm40VGJ1ZWszUDRZOUczU0crRlRva3lZNzZzTG5IMWFRaDByOEFleC9OalJWeXF6WnNlQUsraThJZS85YXBCRmJ6a09JSnhMOGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTMxMDg0CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CkwyNEJhbmIrekMxRlFLUzBGekNvRlZJQXN2YlRuZ1VtdXB1b0tIdkVqS09qSUJkZ3RYdXZJYnpWbGdlSHRMMkJJa0ZUT0oxaC9jYzNtRVlSbWQ5L0FnPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.6_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDlrQkVsd2Q0WGtTa3E5RTN2YWt1b0dsNFRvN0h1b0x0bVpFWHZncnAwNlJTaE1CTjR0WG1WamY0T2pWdFR2WHo1Qi92cFBGelNBc2dVN2g3V0ZCN3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTUzNzIzCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CkpNUDZWb1FVS09PdW4rQVZGaDhDSlFsQWs2RUFKSy95Qjk3czRFWWVVZDR6d2YvMnB5RFlNS2NBSk9BVU9SWWdwZCtJc0JzU1dja2NwSTBrMlBZVUF3PT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.7_aarch64.app.tar.gz"
     }
   }
 }
