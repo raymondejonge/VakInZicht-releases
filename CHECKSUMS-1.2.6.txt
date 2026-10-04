@@ -1,0 +1,3 @@
+SHA-256
+467828d1b656c4590b1aac3831a7f56355cb9d5abda9056feb73d3ce6c9093ca  VakInZicht Kunstvakken 1.2.6.pkg
+0c9a1a57b945d0ee280e52f1b52f52d456ba350e03964a6af22fe8975f24c5ae  VakInZicht-Kunstvakken_1.2.6_aarch64.app.tar.gz

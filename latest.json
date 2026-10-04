@@ -1,11 +1,11 @@
 {
-  "version": "1.2.5",
-  "notes": "Consistente rubric- en beoordelingskleuren, eigen theorietoetskleuren, directe klasnavigatie voor Start/Verder/Bekijk en tien gevarieerde demovoorbeelden met unieke titels. Schooljaarbestanden behouden toetsweken, eindtoetsen, doelgroepen en lesuitval. Minder dubbele verwerking bij printopties. Logischer rubric-opslag en alleen gewijzigde onderdelen aanbieden voor de bibliotheek. Maak vooraf een gegevensbackup.",
-  "pub_date": "2026-10-01T21:50:34.461Z",
+  "version": "1.2.6",
+  "notes": "Mobiele notities optioneel koppelen aan Mijn Taken met gedeelde categorieën. Zelfstandig account activeren voor toegelaten gebruikers en afgeschermd beheer van online toegang. Checklist-post-its met personen of een hele klas, automatisch verbergen na afvinken en terugkijken via het oogje; afgeronde checklists blijven bewaard. Compacte klasweergave. Herstelde SOM-import, behoud van scrollpositie bij leerlingregistratie en duidelijkere instellingen. Contact: info@vakinzicht.nl. Gewone Mac-functies blijven zonder account beschikbaar. Maak vooraf een gegevensback-up; versie 1.2.5 blijft als terugval beschikbaar.",
+  "pub_date": "2026-10-04T16:25:24.715Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeHloQVlUNUUzSkJoNlQ0NzlsZWhuSnFwT2g5YWxFRUUwdWxIdnBzUUpKV2JIc1F6VThnV2V1UWYvV1NqSVF5dXc5RzRMSmV5Qk5GWDVOUUt1eHFqY3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODkxMzg4CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6Ck90TnJaZlZqckVyOER3b051Q0hkZmNwQm9xVTRNSmhoWU03aTV6VmNvVXBEQkN5NmloQ3kxeWZLTHl3dHJnWURNZGl2cTEzcGRsSTZSc3gyQTVHRUJRPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.5_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDZtWkI5THRFQU5STm40VGJ1ZWszUDRZOUczU0crRlRva3lZNzZzTG5IMWFRaDByOEFleC9OalJWeXF6WnNlQUsraThJZS85YXBCRmJ6a09JSnhMOGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTMxMDg0CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CkwyNEJhbmIrekMxRlFLUzBGekNvRlZJQXN2YlRuZ1VtdXB1b0tIdkVqS09qSUJkZ3RYdXZJYnpWbGdlSHRMMkJJa0ZUT0oxaC9jYzNtRVlSbWQ5L0FnPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.6_aarch64.app.tar.gz"
     }
   }
 }
