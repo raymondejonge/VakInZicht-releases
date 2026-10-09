@@ -1,11 +1,11 @@
 {
-  "version": "1.2.8",
-  "notes": "Lesgeschiedenis opent standaard op Dit schooljaar, ook vanuit een weekwaarschuwing. De weekcontrole bij Mijn lessen telt opgeslagen extra-vaklessen zoals Mentoraat mee; gemengde lessen tellen één keer. Dashboard, Analyse en kunstvaksignalen blijven uitsluitend kunstvakken tonen. Bestaande lessen en registraties worden niet gewijzigd. Maak vooraf een volledige gegevensback-up.",
-  "pub_date": "2026-10-05T06:14:43.535Z",
+  "version": "1.2.9",
+  "notes": "Overzichtelijkere aftellers met zoeken op afspraak en maand, instelbare kleuren en controle van lesuitval. Alle modules afzonderlijk aan/uit. Verbeterde persoonlijke bibliotheek, registratie en beoordelingsvoortgang; individuele groepsuitzonderingen. Mijn lessen: week afsluiten/heropenen. Sneller openen van aftellers en beoordelingen. Nieuwe fictieve bovenbouwvoorbeelden en verbeterde PDF-naslag. Fase 6 (gedeelde bibliotheek) is niet inbegrepen. Maak vóór installeren een volledige gegevensback-up.",
+  "pub_date": "2026-10-09T13:05:03.163Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeHlCWENmZ29SQXZQVnRYdjdncFF3R1BVNkFhbGU0RTZ1ZkhmYXFzd21rbzNzcDBWcWVCUmNBN1VuTGVsSHV3UldrS3l5YXBXYVNjcWo3NnM4Z3RqSHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTgwNzQ5CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CmtKRCswQUIvV0JGZHdVYTVhMXZIa1FiWGw1a05rcUExbVdyeEViRzc5WnJ1VjJTZHBod3Q1NjdQU002NnhzZzYzNkNrWXEyVTN5WE1mRDZYRXBOdkNRPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.8_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeHhucTJEQWtZd29WbVIvNXNqbFZrb2ZpWmZyb2RKeXAwOFgwelpEQjRmOGFnMlRqcllvYkhvNWtuNGNOU0ZJdWFCZklRWk5BRDFtazNxd2s4QUw5RFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTUxMDQzCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6Ck9xNXI3Z3lHREd6aFpqUEpzR2ZYQ3ROSXcyUU13R1NCeVhla2hSaWNGVmtOMHdNU0dpZkU5YUlna1JqTklwZlFyanBrRzRBbDEvZkhza2N0eVR6VEJBPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.2.9_aarch64.app.tar.gz"
     }
   }
 }
