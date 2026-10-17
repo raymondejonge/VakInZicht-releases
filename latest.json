@@ -1,11 +1,11 @@
 {
-  "version": "1.3.1",
-  "notes": "Wat is nieuw?\n\n• Vernieuwde bibliotheek: rubrics delen en hergebruiken.\n• Groepsbeoordelingen per leerling aanpassen.\n• Cijfers altijd op een schaal van 1–10.\n• Extra kleurkeuze voor aftellers. (rood voor Kim)\n• Jaaragenda makkelijker importeren en bijwerken.\n• Duidelijker beheer en opvallendere meldingen op Mac en telefoon.",
-  "pub_date": "2026-10-17T16:52:44.242Z",
+  "version": "1.3.2",
+  "notes": "Wat is nieuw?\n\n• Gearchiveerd materiaal apart in het Archief.\n• Duidelijke knoppen voor archiveren en herstellen.\n• Meer uitleg bij het verwijderen van mappen.",
+  "pub_date": "2026-10-17T17:17:02.903Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDVSQytVNzhaTWIyYTlzemNSYWtGclh4RXpaYjNUbUMrOWhjYjlCRSsxODNpTzRpbFAwVU1lOExkRWRhWGU0amkxNDdYV2ZKZUIrdHpUK2FUWXpycmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU1ODE1CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CkNTZllxZlBmK1I2QlMwOHFGRjV1RzhQQm5zSm9lak9KU2RaR3l0bCtXM3dHN3BKaXVaclErMVNSa3M2dUNkUFJRTXYvVE05cW5XUjFwRmxkOVpmMENBPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.3.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeCtNRXFIUHg5Q0kyYnllcjZ0dnNSaDBUcHhKa0xrUGorbzhRdFhXOGhjR21ISU1YZXdxYmNOVDF3a2dFWEE3N081OHVBYnhwVWxHQUNLT0dmSVI1Q3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU3Mzc3CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6ClVIcytuRVIyTm1vZ1hxTFd0SEhVU0l6QVBLVW5TRHhpOEtJa0RRQzNzMW1QUTBxWWJGaVZ3R3RHN2UrbjM5S2dOZjNQWnlsdUpiYlRjVmROdU0yMUJnPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.3.2_aarch64.app.tar.gz"
     }
   }
 }

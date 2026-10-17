@@ -6,7 +6,17 @@ Deze repository bevat geen broncode en geen gebruikersgegevens. `latest.json` ve
 
 De PKG-installer is beschikbaar voor handmatige installatie of herstel. Deze interne/pilotuitgave is voor macOS met Apple silicon; de app is ad-hoc ondertekend en niet Apple-genotariseerd. Maak vóór installeren een volledige gegevensback-up. Bestaande brugversies kunnen hetzelfde pakket via de ondertekende app-updater ontvangen.
 
-## Versie 1.3.1
+## Versie 1.3.2
+
+[Release-uitleg](RELEASE-NOTES-1.3.2.md) ·
+[Installer 1.3.2](VakInZicht%20Kunstvakken%201.3.2.pkg) ·
+[Controlesommen](CHECKSUMS-1.3.2.txt)
+
+Gearchiveerd materiaal apart, duidelijke archiveren/herstellen-knoppen en meer
+uitleg bij mapverwijdering. Alle verbeteringen uit eerdere versies zijn inbegrepen;
+tussenliggende versies installeren is niet nodig. Maak eerst een volledige gegevensback-up.
+
+## Eerdere versie 1.3.1
 
 [Release-uitleg](RELEASE-NOTES-1.3.1.md) ·
 [Installer 1.3.1](VakInZicht%20Kunstvakken%201.3.1.pkg) ·
