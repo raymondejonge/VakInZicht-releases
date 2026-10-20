@@ -12,28 +12,32 @@ en niet Apple-genotariseerd. Maak vóór installeren een actuele gegevensback-up
 Bestaande brugversies kunnen hetzelfde pakket via de ondertekende app-updater
 ontvangen. Tussenupdates zijn niet nodig.
 
-## Versie 1.3.7
+## Versie 1.3.8
 
-[Release-uitleg](RELEASE-NOTES-1.3.7.md) ·
-[Installer 1.3.7](VakInZicht%20Kunstvakken%201.3.7.pkg) ·
-[Controlesommen](CHECKSUMS-1.3.7.txt)
+[Release-uitleg](RELEASE-NOTES-1.3.8.md) ·
+[Installer 1.3.8](VakInZicht%20Kunstvakken%201.3.8.pkg) ·
+[Controlesommen](CHECKSUMS-1.3.8.txt)
 
-Rustigere bibliotheekbediening, een optionele Bibliotheek-menuknop, direct
-schakelen tussen beheerder- en gebruikersweergave en geselecteerde onderdelen
-tegelijk zichtbaar/onzichtbaar maken. Eenvoudiger apparatenoverzicht op de Mac.
-Alle eerdere verbeteringen blijven inbegrepen, waaronder individuele
-groepsbeoordelingen, cijfers van 1–10, rode aftellers, jaaragenda-import en de
-preventieve demo-hotfix.
+De mapknoppen in Mijn bibliotheek zijn hersteld. Bibliotheekbeheerders kunnen
+in Gedeeld en Algemeen submappen maken, mappen met submappen verplaatsen en
+de volgorde per niveau bewaren. Bestemmingen en gevolgen worden vooraf getoond;
+rubric- en onderdeelinhoud, inhoudsversies en bestaande eigen kopieën blijven behouden.
+
+Alle eerdere verbeteringen blijven inbegrepen: rubrics delen en hergebruiken,
+individuele groepsbeoordelingen, cijfers van 1–10, rode aftellers, jaaragenda-import,
+rustigere bibliotheekbediening en de preventieve demo-hotfix.
 
 Mogelijk moet je opnieuw inloggen via Instellingen → Account. De Mac onthoudt
 je aanmelding automatisch; in de telefoonapp kies je zelf Ingelogd blijven.
-De installer wijzigt geen accounts of online sessiebeleid. De telefoonwebapp
-wordt afzonderlijk bijgewerkt, met Vernieuwen/Later en behoud van onverzonden invoer.
-Bestaande demoresten worden niet automatisch verwijderd; laat die eerst veilig
-controleren. Archiveren is nog geen prullenbak met automatisch wissen na 30 dagen.
+De installer wijzigt geen accounts of online sessiebeleid. Telefoonversie 14
+blijft ongewijzigd; telefoonupdates hebben hun eigen Vernieuwen/Later-melding.
+Offline Gedeeld/Algemeen, een prullenbak van 30 dagen en beheerdelegatie zijn
+niet onderdeel van deze update. Bestaande demoresten worden niet automatisch
+verwijderd; laat die eerst veilig controleren.
 
 ## Eerdere versies
 
+- [1.3.7: bibliotheekbediening en apparatenoverzicht](RELEASE-NOTES-1.3.7.md)
 - [1.3.6: eenvoudiger aanmelden](RELEASE-NOTES-1.3.6.md)
 - [1.3.5: preventieve demo-hotfix](RELEASE-NOTES-1.3.5.md)
 - [1.3.4: herstel van delen en groepsuitzonderingen](RELEASE-NOTES-1.3.4.md)

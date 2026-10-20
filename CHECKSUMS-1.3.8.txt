@@ -1,0 +1,5 @@
+7602f5bda0549a943e9694d81c637f3fa28b8603e835c1afd37094b3a08d5b40  VakInZicht Kunstvakken 1.3.8.pkg
+aa9ee1e6206ad47ec336d340514fddc801fd909045a7df1652e84da136c5a306  VakInZicht-Kunstvakken_1.3.8_aarch64.app.tar.gz
+c4a4b3954711a387fbf02d06de5decb62f1190f454f6b23722d14592aacc2b2c  VakInZicht-Kunstvakken_1.3.8_aarch64.app.tar.gz.sig
+1f0e19d467a23ecd9a4a7dcd1cc906d6c9eb6643a1da46fe5624daa1c598965f  RELEASE-NOTES-1.3.8.md
+fb15637468e88510e7a49aa795cebdf91e65aeb91146c2c823920131efdd91ca  latest.json
