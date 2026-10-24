@@ -12,31 +12,33 @@ en niet Apple-genotariseerd. Maak vóór installeren een actuele gegevensback-up
 Bestaande brugversies kunnen hetzelfde pakket via de ondertekende app-updater
 ontvangen. Tussenupdates zijn niet nodig.
 
-## Versie 1.3.8
+## Versie 1.3.9
 
-[Release-uitleg](RELEASE-NOTES-1.3.8.md) ·
-[Installer 1.3.8](VakInZicht%20Kunstvakken%201.3.8.pkg) ·
-[Controlesommen](CHECKSUMS-1.3.8.txt)
+[Release-uitleg](RELEASE-NOTES-1.3.9.md) ·
+[Installer 1.3.9](VakInZicht%20Kunstvakken%201.3.9.pkg) ·
+[Controlesommen](CHECKSUMS-1.3.9.txt)
 
-De mapknoppen in Mijn bibliotheek zijn hersteld. Bibliotheekbeheerders kunnen
-in Gedeeld en Algemeen submappen maken, mappen met submappen verplaatsen en
-de volgorde per niveau bewaren. Bestemmingen en gevolgen worden vooraf getoond;
-rubric- en onderdeelinhoud, inhoudsversies en bestaande eigen kopieën blijven behouden.
+- Overzichtelijkere bibliotheek met aparte mappen, compactere zoekbalk en rustige menu’s.
+- Mappen en submappen eenvoudig ordenen en verplaatsen door te slepen.
+- Handiger beheer: onderdelen toevoegen en meerdere bijdragen tegelijk controleren, vrijgeven en verplaatsen.
+- Optioneel eindresultaat op de docentenlijst en duidelijkere schaalnamen, versieaanduidingen en jaaragendabronnen.
 
-Alle eerdere verbeteringen blijven inbegrepen: rubrics delen en hergebruiken,
-individuele groepsbeoordelingen, cijfers van 1–10, rode aftellers, jaaragenda-import,
-rustigere bibliotheekbediening en de preventieve demo-hotfix.
+De centrale nieuwe indeling in Gedeeld en Algemeen wordt afzonderlijk op de
+server omgeschakeld. De app is daarop voorbereid en blijft tot die omschakeling
+de bestaande centrale bediening gebruiken. Installeren alleen activeert dit
+niet. Na de serveromschakeling is deze Mac-update nodig voor veilig centraal
+wijzigen; oudere apps kunnen een algemene foutmelding tonen.
 
-Mogelijk moet je opnieuw inloggen via Instellingen → Account. De Mac onthoudt
-je aanmelding automatisch; in de telefoonapp kies je zelf Ingelogd blijven.
 De installer wijzigt geen accounts of online sessiebeleid. Telefoonversie 14
-blijft ongewijzigd; telefoonupdates hebben hun eigen Vernieuwen/Later-melding.
-Offline Gedeeld/Algemeen, een prullenbak van 30 dagen en beheerdelegatie zijn
-niet onderdeel van deze update. Bestaande demoresten worden niet automatisch
-verwijderd; laat die eerst veilig controleren.
+blijft ongewijzigd. Offline Gedeeld/Algemeen, een centrale prullenbak van 30 dagen,
+gedeelde-agenda-synchronisatie en beheerdelegatie zijn geen onderdeel van deze
+update. De bestaande demo-isolatie en eerdere verbeteringen blijven inbegrepen.
+Bestaande demoresten worden niet automatisch verwijderd; laat die eerst veilig
+controleren.
 
 ## Eerdere versies
 
+- [1.3.8: mapknoppen en centrale submappen](RELEASE-NOTES-1.3.8.md)
 - [1.3.7: bibliotheekbediening en apparatenoverzicht](RELEASE-NOTES-1.3.7.md)
 - [1.3.6: eenvoudiger aanmelden](RELEASE-NOTES-1.3.6.md)
 - [1.3.5: preventieve demo-hotfix](RELEASE-NOTES-1.3.5.md)
@@ -48,6 +50,7 @@ verwijderd; laat die eerst veilig controleren.
 - [1.2.9](RELEASE-NOTES-1.2.9.md)
 - [1.2.5](RELEASE-NOTES-1.2.5.md)
 
-Oudere installers blijven behouden. Een downgrade gebeurt handmatig: maak eerst
-een actuele gegevensback-up en herstel alleen na een bewuste keuze. Een oudere
-kopie bevat geen latere wijzigingen. Broncode wordt afzonderlijk privé beheerd.
+Oudere installers blijven behouden. Na de centrale omschakeling is teruggaan naar
+oude bibliotheekschrijfroutes niet veilig ondersteund. Gebruik bij problemen een
+gecontroleerd herstel, met behoud van de actuele administratie en herstelkopie.
+Broncode wordt afzonderlijk privé beheerd.
