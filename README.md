@@ -12,32 +12,32 @@ en niet Apple-genotariseerd. Maak vóór installeren een actuele gegevensback-up
 Bestaande brugversies kunnen hetzelfde pakket via de ondertekende app-updater
 ontvangen. Tussenupdates zijn niet nodig.
 
-## Versie 1.3.9
+## Versie 1.3.10
 
-[Release-uitleg](RELEASE-NOTES-1.3.9.md) ·
-[Installer 1.3.9](VakInZicht%20Kunstvakken%201.3.9.pkg) ·
-[Controlesommen](CHECKSUMS-1.3.9.txt)
+[Release-uitleg](RELEASE-NOTES-1.3.10.md) ·
+[Installer 1.3.10](VakInZicht%20Kunstvakken%201.3.10.pkg) ·
+[Controlesommen](CHECKSUMS-1.3.10.txt)
 
-- Overzichtelijkere bibliotheek met aparte mappen, compactere zoekbalk en rustige menu’s.
+- Overzichtelijkere bibliotheek met handiger zoeken en beheren.
 - Mappen en submappen eenvoudig ordenen en verplaatsen door te slepen.
-- Handiger beheer: onderdelen toevoegen en meerdere bijdragen tegelijk controleren, vrijgeven en verplaatsen.
-- Optioneel eindresultaat op de docentenlijst en duidelijkere schaalnamen, versieaanduidingen en jaaragendabronnen.
+- Jaaragenda makkelijker bijwerken, exporteren, verwijderen of leegmaken.
+- Zelf kiezen welke afspraken en aftellers je behoudt.
+- Verbeterde docentenlijst, schaalnamen, versienummering en menu-iconen.
+- Kleine bugfixes.
 
-De centrale nieuwe indeling in Gedeeld en Algemeen wordt afzonderlijk op de
-server omgeschakeld. De app is daarop voorbereid en blijft tot die omschakeling
-de bestaande centrale bediening gebruiken. Installeren alleen activeert dit
-niet. Na de serveromschakeling is deze Mac-update nodig voor veilig centraal
-wijzigen; oudere apps kunnen een algemene foutmelding tonen.
+De nieuwe jaaragenda-verwijderopties werken lokaal op de Mac en wijzigen geen
+agenda bij collega's. De bestaande centrale bibliotheekindeling is al actief;
+deze update voert geen nieuwe serveromschakeling uit. Accounts, rechten en
+online sessiebeleid veranderen niet. Telefoonversie 14 blijft ongewijzigd.
 
-De installer wijzigt geen accounts of online sessiebeleid. Telefoonversie 14
-blijft ongewijzigd. Offline Gedeeld/Algemeen, een centrale prullenbak van 30 dagen,
-gedeelde-agenda-synchronisatie en beheerdelegatie zijn geen onderdeel van deze
-update. De bestaande demo-isolatie en eerdere verbeteringen blijven inbegrepen.
-Bestaande demoresten worden niet automatisch verwijderd; laat die eerst veilig
-controleren.
+Offline Gedeeld/Algemeen, een centrale prullenbak van 30 dagen, gedeelde-agenda-
+synchronisatie, beheerdelegatie en de nieuwe analyseknop vallen buiten deze update.
+De bestaande demo-isolatie en eerdere verbeteringen blijven inbegrepen. Bestaande
+demoresten worden niet automatisch verwijderd; laat die eerst veilig controleren.
 
 ## Eerdere versies
 
+- [1.3.9: bibliotheekindeling, slepen en docentenlijst](RELEASE-NOTES-1.3.9.md)
 - [1.3.8: mapknoppen en centrale submappen](RELEASE-NOTES-1.3.8.md)
 - [1.3.7: bibliotheekbediening en apparatenoverzicht](RELEASE-NOTES-1.3.7.md)
 - [1.3.6: eenvoudiger aanmelden](RELEASE-NOTES-1.3.6.md)
