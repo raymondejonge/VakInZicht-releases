@@ -12,31 +12,35 @@ en niet Apple-genotariseerd. Maak vóór installeren een actuele gegevensback-up
 Bestaande brugversies kunnen hetzelfde pakket via de ondertekende app-updater
 ontvangen. Tussenupdates zijn niet nodig.
 
-## Versie 1.3.10
+## Versie 1.3.11
 
-[Release-uitleg](RELEASE-NOTES-1.3.10.md) ·
-[Installer 1.3.10](VakInZicht%20Kunstvakken%201.3.10.pkg) ·
-[Controlesommen](CHECKSUMS-1.3.10.txt)
+[Release-uitleg](RELEASE-NOTES-1.3.11.md) ·
+[Installer 1.3.11](VakInZicht%20Kunstvakken%201.3.11.pkg) ·
+[Controlesommen](CHECKSUMS-1.3.11.txt)
 
 - Overzichtelijkere bibliotheek met handiger zoeken en beheren.
 - Mappen en submappen eenvoudig ordenen en verplaatsen door te slepen.
+- Nieuw: Gedeeld en Algemeen ook offline gebruiken, tot 90 dagen. Bij verbinding automatisch bijgewerkt.
 - Jaaragenda makkelijker bijwerken, exporteren, verwijderen of leegmaken.
 - Zelf kiezen welke afspraken en aftellers je behoudt.
 - Verbeterde docentenlijst, schaalnamen, versienummering en menu-iconen.
 - Kleine bugfixes.
 
-De nieuwe jaaragenda-verwijderopties werken lokaal op de Mac en wijzigen geen
-agenda bij collega's. De bestaande centrale bibliotheekindeling is al actief;
-deze update voert geen nieuwe serveromschakeling uit. Accounts, rechten en
-online sessiebeleid veranderen niet. Telefoonversie 14 blijft ongewijzigd.
+De offlinekopie bevat alleen toegestane gebruikersinhoud en wordt bij online
+openen van de bibliotheek vernieuwd. Tijdelijk gedeeld materiaal kan eerder
+verlopen. Dit verandert geen aanmeldduur; centrale wijzigingen blijven online.
+Zonder verbinding zijn latere intrekkingen pas bij de volgende online controle
+of uiterlijk na afloop van de offlinegeldigheid bekend. Eigen werk blijft behouden.
 
-Offline Gedeeld/Algemeen, een centrale prullenbak van 30 dagen, gedeelde-agenda-
-synchronisatie, beheerdelegatie en de nieuwe analyseknop vallen buiten deze update.
-De bestaande demo-isolatie en eerdere verbeteringen blijven inbegrepen. Bestaande
-demoresten worden niet automatisch verwijderd; laat die eerst veilig controleren.
+Deze Mac-update voert geen nieuwe serveromschakeling uit. Accounts, rechten en
+online sessiebeleid veranderen niet. Telefoonversie 14 blijft ongewijzigd.
+Een centrale prullenbak, gedeelde-agendasynchronisatie, beheerdelegatie en de
+nieuwe analyseknop vallen buiten deze update. De bestaande demo-isolatie blijft
+inbegrepen; bestaande demoresten worden niet automatisch verwijderd.
 
 ## Eerdere versies
 
+- [1.3.10: jaaragenda beheren, export en kleine verbeteringen](RELEASE-NOTES-1.3.10.md)
 - [1.3.9: bibliotheekindeling, slepen en docentenlijst](RELEASE-NOTES-1.3.9.md)
 - [1.3.8: mapknoppen en centrale submappen](RELEASE-NOTES-1.3.8.md)
 - [1.3.7: bibliotheekbediening en apparatenoverzicht](RELEASE-NOTES-1.3.7.md)

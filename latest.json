@@ -1,11 +1,11 @@
 {
-  "version": "1.3.10",
-  "notes": "Wat is nieuw?\n\n• Overzichtelijkere bibliotheek met handiger zoeken en beheren.\n• Mappen en submappen eenvoudig ordenen en verplaatsen door te slepen.\n• Jaaragenda makkelijker bijwerken, exporteren, verwijderen of leegmaken.\n• Zelf kiezen welke afspraken en aftellers je behoudt.\n• Verbeterde docentenlijst, schaalnamen, versienummering en menu-iconen.\n• Kleine bugfixes.",
-  "pub_date": "2026-10-25T06:13:14.147Z",
+  "version": "1.3.11",
+  "notes": "Wat is nieuw?\n\n• Overzichtelijkere bibliotheek met handiger zoeken en beheren.\n• Mappen en submappen eenvoudig ordenen en verplaatsen door te slepen.\n• Nieuw: Gedeeld en Algemeen ook offline gebruiken, tot 90 dagen. Bij verbinding automatisch bijgewerkt.\n• Jaaragenda makkelijker bijwerken, exporteren, verwijderen of leegmaken.\n• Zelf kiezen welke afspraken en aftellers je behoudt.\n• Verbeterde docentenlijst, schaalnamen, versienummering en menu-iconen.\n• Kleine bugfixes.",
+  "pub_date": "2026-10-25T12:05:41.064Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDJma0VKaWc1UkQrWWxWT3lKWmx2M2FxMHdyUlNYOVZXMEJKaVZOaXFHRHZqWmRGYjFWVkp5NmdFQTBQWldTVENDWTNqWEkrVjZjZktLaXM3alRORXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTA4NzkzCWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CnlrVUZLem81ZmVGWU8rWWNnTEFSTld0QUU5UHJVN1RtQ0kzTUpHd0xhYTIydFd2WEJLT0ozdDcvdVVkRXIwK3hDZTRRK2N0Q2ZibHR2WVA5MmlGdUFRPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.3.10_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDZlK0o4Tm54dkxtTzJaa1RzTlRQS3JsN3MycTZmVG13MS85WWczN1BSMVpOUUFYWkxLbVRRdUpwc3NFUWk0WFA0VGRqd0gyZ09PaEU5VWJQMkpwUmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTI5OTM5CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CmpxOUcycFpIbFFMR3VIVXpiQ1FDWDR5d3NnM1JJZlR2emxkUjZEVERXR1dCOGhrTWZHMHNZazdJOXhOOHlWZEk1M09kU3dTTldvM25NamtaZUpvYUNRPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.3.11_aarch64.app.tar.gz"
     }
   }
 }
