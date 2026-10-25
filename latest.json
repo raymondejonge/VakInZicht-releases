@@ -1,11 +1,11 @@
 {
-  "version": "1.3.12",
-  "notes": "Wat is nieuw?\n\n• Gemiddelde beoordeling op de docentenlijst.\n• Overzichtelijkere bibliotheek met handiger zoeken en beheren.\n• Mappen en submappen eenvoudig ordenen en verplaatsen door te slepen.\n• Gedeeld en Algemeen ook offline gebruiken.\n• Jaaragenda makkelijker bijwerken, exporteren, verwijderen of leegmaken.\n• Kleine bugfixes.",
-  "pub_date": "2026-10-25T13:19:00.647Z",
+  "version": "1.3.13",
+  "notes": "Wat is nieuw?\n\n• Gemiddelde beoordeling op de docentenlijst.\n• Overzichtelijkere bibliotheek met handiger zoeken en beheren.\n• Mappen en submappen eenvoudig ordenen en verplaatsen door te slepen.\n• Gedeeld en Algemeen ook offline gebruiken.\n• Jaaragenda makkelijker bijwerken, exporteren, verwijderen of leegmaken.\n• Bibliotheek blijft zichtbaar tijdens bijwerken, met vernieuwicoon naast de bijwerktijd.\n• Kleine bugfixes.",
+  "pub_date": "2026-10-25T16:58:26.296Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDhlRG5iYUFTYWwvTFI5MDBWR3lISjk0anJoVGFWczZlWTZtQ21VWVNudS95TGJucjQzbTlndnEzTHpEMERCSmRjVGlNTEwrc1ZQejRabVQ0T1R0Ymc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM0MzM5CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CnA4OHh3SG1haGVDQzJucTdYRWU5ZlVMZGl3aTN3OWJRTW1BQ2VjSjV3TllLZEx0eTZZWEcwSkVCcEpRQXVESEx5eTJ5cG51U3BOU2s0UTVwQXQ1UkFRPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.3.12_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeHhTV1hnU1gvUUZMMVY3a3RhbEJZSnVNYUlWeFFaS2srdUs1K2g0N09QY3ZaSkZWMUcxUGhxVitiUHVhY3V5UEtMNWQ5aG4yL2p2a1VlMU5nRDZGQndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQ3NTA1CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CmJWbExEZWdEVUxselBuV1NMbVErUDhGanRRaEdUZ3Bxc2hjZ1dudGEyK3FkcC81UGRQWDFhY3lFcGZaSTQ4MDd2Y0hJN3FZVERsdXBTK2dtSjdpeEF3PT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.3.13_aarch64.app.tar.gz"
     }
   }
 }
