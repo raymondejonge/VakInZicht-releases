@@ -12,24 +12,29 @@ en niet Apple-genotariseerd. Maak vóór installeren een actuele gegevensback-up
 Bestaande brugversies kunnen hetzelfde pakket via de ondertekende app-updater
 ontvangen. Tussenupdates zijn niet nodig.
 
-## Versie 1.3.13
+## Versie 1.3.14
 
-[Release-uitleg](RELEASE-NOTES-1.3.13.md) ·
-[Installer 1.3.13](VakInZicht%20Kunstvakken%201.3.13.pkg) ·
-[Controlesommen](CHECKSUMS-1.3.13.txt)
+[Release-uitleg](RELEASE-NOTES-1.3.14.md) ·
+[Installer 1.3.14](VakInZicht%20Kunstvakken%201.3.14.pkg) ·
+[Controlesommen](CHECKSUMS-1.3.14.txt)
 
 - Gemiddelde beoordeling op de docentenlijst.
-- Overzichtelijkere bibliotheek met handiger zoeken en beheren.
-- Mappen en submappen eenvoudig ordenen en verplaatsen door te slepen.
-- Gedeeld en Algemeen ook offline gebruiken.
-- Jaaragenda makkelijker bijwerken, exporteren, verwijderen of leegmaken.
-- Bibliotheek blijft zichtbaar tijdens bijwerken, met vernieuwicoon naast de bijwerktijd.
-- Kleine bugfixes.
+- Bibliotheek ook offline, met handiger zoeken en rechtenbeheer.
+- Mappen verslepen en het linkermenu inklappen.
+- Jaaragenda makkelijker bijwerken, exporteren en opruimen.
+- Rustigere weergave en kleine bugfixes.
 
-Bewaarde bibliotheekinhoud blijft zichtbaar tijdens het bijwerken. Nieuwe online
-inhoud verschijnt na controle zonder extra opslagwachttijd; zoekterm, map en
-zoekfocus blijven behouden. Eén compact vernieuwicoon staat direct rechts naast
-de bijwerktijd. De datumreparatie uit 1.3.12 blijft behouden.
+Nieuw in deze update: één inklapknop onderaan het linkermenu, stabielere
+bibliotheekbediening tijdens het laden, alleen relevante statusfilters en
+een duidelijke knop Gebruikersrechten naast de weergavekeuze. Bestaande bevoegde
+beheerders kunnen gewone bibliotheekrechten per actieve gebruiker bewust bewaren.
+Notitierechten en accounttoegang blijven daarbij behouden; beschermde
+beheeraccounts blijven vergrendeld. Zonder actuele bevoegdheid of bestaande
+serverondersteuning wordt het rechtenoverzicht alleen-lezen.
+
+Achtergrondbijwerken maakt tussen de afzonderlijke catalogusaanvragen ruimte
+voor actieve aanvragen. Aanmeld-/intrekkingsgrenzen en volledige validatie
+blijven verplicht; onvolledige downloads worden niet opgeslagen.
 
 Geen continue live push: automatisch controleren gebeurt bij openen/terugkeren
 naar een bron-/typeweergave of via Vernieuwen. De offlinekopie bevat alleen
@@ -39,8 +44,8 @@ latere intrekkingen pas bij de volgende controle of uiterlijk na afloop bekend.
 Centrale wijzigingen blijven online; eigen kopieën en beoordelingen worden niet
 automatisch aangepast. Aanmeldduur verandert niet.
 
-Deze Mac-update voert geen serveromschakeling uit. Accounts, rechten en online
-sessiebeleid veranderen niet. Telefoonversie 14 blijft ongewijzigd. Herhaalde
+Deze Mac-update voert geen serveromschakeling uit en verandert op zichzelf geen
+bestaande rechten of accounts. Telefoonversie 14 blijft ongewijzigd. Herhaalde
 macOS-sleutelhangertoestemming bij een nieuwe apphandtekening wordt hiermee niet
 structureel opgelost. Een centrale prullenbak, gedeelde-agendasynchronisatie,
 beheerdelegatie en de nieuwe analyseknop vallen buiten deze update. Bestaande
@@ -48,6 +53,7 @@ demo-isolatie blijft inbegrepen; demoresten worden niet automatisch verwijderd.
 
 ## Eerdere versies
 
+- [1.3.13: rustige achtergrondweergave en vernieuwicoon](RELEASE-NOTES-1.3.13.md)
 - [1.3.12: herstel offline cloud-datumformaat](RELEASE-NOTES-1.3.12.md)
 - [1.3.11: offlinebibliotheek en vaste selectiebalk](RELEASE-NOTES-1.3.11.md)
 - [1.3.10: jaaragenda beheren, export en kleine verbeteringen](RELEASE-NOTES-1.3.10.md)
