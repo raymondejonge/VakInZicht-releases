@@ -1,11 +1,11 @@
 {
-  "version": "1.3.16",
-  "notes": "Wat is nieuw?\n\n• Prullenbak voor Gedeeld en Algemeen: terugzetten of zelf leegmaken.\n• Rubriconderdelen makkelijker verslepen en namen sorteren.\n• Overzichtelijkere bibliotheek, taken en jaaragenda.\n• Verbeterd afdrukvoorbeeld met optioneel feedbackvak.\n• Verbeterde tellingen en exports, plus kleine bugfixes.\n• Lessenoverzicht met gegeven en uitgevallen lessen en een Registraties-pop-up met signaalkleuren.\n• Gemiddeld aantal lessen per onderwerp.\n• Verlopen taken blijven zichtbaar in Deze week.",
-  "pub_date": "2026-11-07T17:56:57.010Z",
+  "version": "1.3.17",
+  "notes": "Wat is nieuw?\n\n• Lesnotities als concept bewaren en direct terug naar je open notitie.\n• Rustiger tabellen, handiger sorteren en duidelijkere groepsknoppen.\n• Overzichtelijkere lessen en taken, met Registraties en verlopen taken in Deze week.\n• Bibliotheek: rubrics delen, mappen slepen en materiaal terugzetten uit de prullenbak.\n• Groepsbeoordelingen per leerling aanpassen; cijfers altijd op een schaal van 1–10.\n• Handiger jaaragenda en afdrukvoorbeeld, extra kleuren voor aftellers en kleine bugfixes.",
+  "pub_date": "2026-11-07T19:53:59.872Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDhoQzlUYVZGUFNoTU0rSXQ1QzNDdzFybjlCK01MUXFmV1YyUFVPOU5rU0RnTEt6Vmd3czVpQ3VLYUptdGVjeFRZMVZKZk0rZEZaYXRoK0NvTjVuVVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDc0MjE1CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CklhRHB3Sk5OSm1wUmN3cDNra21rQTRVMGNCcEgydVV2NE1mclZNUG1MVlZ3am5uMWlsTDJzK09RZ3hCQW5LVjNDODZSdU8wTk1rZ1VLdEd4dkJXa0FnPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.3.16_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDhvbW5OcWM1ZXNQZmVlT2Z2ZUNTRlFOWTNKMVVkRi9MRGFyamptR2pxZENaTHMrdTlVVUswVm5RRzhJVWtuY0hDVlZrQjZ1MFg1cXdmUldwdlN3d1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDgxMjM4CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6Ci82dGxVelVFb21PeWZSWk9mS2dPcGF6dElDVHdvdytKT0RXWTYwMmZTdDJydlBnSlBCT1dCZXgxS0tZakZTclBYK2NJUXpXMDRCT1dYMWdCT0djeURnPT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.3.17_aarch64.app.tar.gz"
     }
   }
 }
