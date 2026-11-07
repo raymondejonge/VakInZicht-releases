@@ -12,6 +12,22 @@ en niet Apple-genotariseerd. Maak vóór installeren een actuele gegevensback-up
 Bestaande brugversies kunnen hetzelfde pakket via de ondertekende app-updater
 ontvangen. Tussenupdates zijn niet nodig.
 
+## Versie 1.3.16
+
+[Release-uitleg](RELEASE-NOTES-1.3.16.md) ·
+[Installer 1.3.16](VakInZicht%20Kunstvakken%201.3.16.pkg) ·
+[Controlesommen](CHECKSUMS-1.3.16.txt)
+
+- Gegeven en uitgevallen lessen direct openen vanuit de klaskaart.
+- Registraties als losse Bijzonderheden-pop-up, zonder nieuwe lesnotitie.
+- Signaalkleuren en aantallen gecontroleerde lessen.
+- Gemiddeld aantal lessen per onderwerp met zichtbare klasverdeling.
+- Verlopen taken blijven in Deze week met een subtiel Over tijd-label.
+
+Deze update verandert geen cloudinstellingen, accounts, collega-rechten of
+telefoonapp. Automatisch leegmaken van de prullenbak blijft uit.
+Bestaande handmatige prullenbak en eerdere verbeteringen blijven behouden.
+
 ## Versie 1.3.15
 
 [Release-uitleg](RELEASE-NOTES-1.3.15.md) ·
