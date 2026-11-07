@@ -12,6 +12,23 @@ en niet Apple-genotariseerd. Maak vóór installeren een actuele gegevensback-up
 Bestaande brugversies kunnen hetzelfde pakket via de ondertekende app-updater
 ontvangen. Tussenupdates zijn niet nodig.
 
+## Versie 1.3.15
+
+[Release-uitleg](RELEASE-NOTES-1.3.15.md) ·
+[Installer 1.3.15](VakInZicht%20Kunstvakken%201.3.15.pkg) ·
+[Controlesommen](CHECKSUMS-1.3.15.txt)
+
+- Prullenbak voor Gedeeld en Algemeen: terugzetten of zelf leegmaken.
+- Rubriconderdelen makkelijker verslepen en namen sorteren.
+- Overzichtelijkere bibliotheek, taken en jaaragenda.
+- Verbeterd afdrukvoorbeeld met optioneel feedbackvak.
+- Verbeterde tellingen en exports, plus kleine bugfixes.
+
+Handmatige prullenbak voor bevoegde bibliotheekbeheerders; geen automatische
+wisdatum of automatische opruimtaak. De Mac-update activeert zelf geen serverfunctie.
+Beschikbaarheid vereist de afzonderlijke servervrijgave. Account- en
+collega-rechten, telefoonversie en de demo-isolatie blijven ongewijzigd.
+
 ## Versie 1.3.14
 
 [Release-uitleg](RELEASE-NOTES-1.3.14.md) ·
