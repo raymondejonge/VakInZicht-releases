@@ -12,6 +12,22 @@ en niet Apple-genotariseerd. Maak vóór installeren een actuele gegevensback-up
 Bestaande brugversies kunnen hetzelfde pakket via de ondertekende app-updater
 ontvangen. Tussenupdates zijn niet nodig.
 
+## Versie 1.3.18
+
+[Release-uitleg](RELEASE-NOTES-1.3.18.md) ·
+[Installer 1.3.18](VakInZicht%20Kunstvakken%201.3.18.pkg) ·
+[Controlesommen](CHECKSUMS-1.3.18.txt)
+
+- Duidelijke startmeldingen voor alle klassen van het actieve schooljaar.
+- Uitgestuurd via rechtermuisknop, met behoud van aanwezigheid en te laat.
+- Dezelfde plusbediening voor taken en post-its, met behoud van bestaande inhoud.
+- Gewijzigde groepsscores kort herkenbaar door zachtgele beoordelingsvakjes.
+- Gele Groepen indelen-knop zolang indeling nodig is; groene bewerkknop behouden.
+
+Concepten en eerdere bibliotheek-, agenda-, afdruk-, taken- en beoordelingsfuncties
+blijven behouden. Geen telefoonupdate, cloudactivering, gewijzigde collega-rechten
+of automatische prullenbakopruiming.
+
 ## Versie 1.3.17
 
 [Release-uitleg](RELEASE-NOTES-1.3.17.md) ·
