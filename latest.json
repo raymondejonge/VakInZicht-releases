@@ -1,11 +1,11 @@
 {
-  "version": "1.3.18",
-  "notes": "Wat is nieuw?\n\n• Duidelijke startmeldingen met totalen van alle klassen in het actieve schooljaar.\n• Uitgestuurd registreren via de rechtermuisknop, met behoud van aanwezigheid en te laat.\n• Lesnotities als concept hervatten en post-its aanvullen met dezelfde plusknop.\n• Rubrics delen, mappen slepen en verwijderd materiaal terugzetten.\n• Groepsbeoordelingen per leerling aanpassen, met subtiele wijzigingsmarkering; cijfers altijd op een schaal van 1–10.\n• Duidelijkere groepsknoppen, verbeterde jaaragenda, afdrukken en aftellers, plus kleine bugfixes.",
-  "pub_date": "2026-11-07T23:05:06.361Z",
+  "version": "1.3.19",
+  "notes": "Wat is nieuw?\n\n• Nieuwe toetsanalyse: onderdelen, klassen, leerlingen en niveaus vergelijken.\n• Analyse als PDF bewaren, met eigen evaluatie en instelbare inhoud.\n• Nettere inhaaluurlijsten, afdrukvoorbeelden en PDF-opmaak.\n• Rubrics delen, mappen slepen en verwijderd materiaal terugzetten.\n• Groepsbeoordelingen per leerling aanpassen; cijfers altijd op een schaal van 1–10.\n• Lesnotities hervatten, Uitgestuurd registreren, handige post-its, duidelijke startmeldingen en kleine bugfixes.",
+  "pub_date": "2026-11-09T12:24:50.859Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDVkU2s0N08zZWQvSVpIclB3RUlZV2tubi9rRTZjTFhkVUllaE1jOEFPUzV5UWx3ZTk1b3E0Q1pnZzBCdlVra2hvM3lGSE5FcWZOb2ZBYnZNd1V6T0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDkyNzA1CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CmRhZWxsODFFTlNpQ05Gbm5MREhldnk1a0xNVXFqbTVudEFzcFh3Yit6cDkza2NXa1hOM1g5Zlp2ZDN6TEFuNlg1ZFpTcC8wYThXQjJyZk9WRDNTS0RRPT0K",
-      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.3.18_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSW11MkVjeEloeDBxUFVjMXlvV0ovaGlqZVJVTGZBOU00OCtZK3loVCs4WTRrRWI1aHczb3R5ZTFmeHh2L2VUeS9JbW5FajBBNkFNV3NlSmIvUGtMVEpBYkRFNXVoNWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI3MDg5CWZpbGU6VmFrSW5aaWNodCBLdW5zdHZha2tlbi5hcHAudGFyLmd6CkRyTW9GbWlWdVNIQnFta2xicXpFV2NHa3RpOW15SVRIM2tEd2padnNrZ1pBVDdpWUZNRWZWaW1EcUxWdU9sVHVYRytUMjVRZ0szT3pFbW5qMGQ3dER3PT0K",
+      "url": "https://raw.githubusercontent.com/raymondejonge/VakInZicht-releases/main/VakInZicht-Kunstvakken_1.3.19_aarch64.app.tar.gz"
     }
   }
 }

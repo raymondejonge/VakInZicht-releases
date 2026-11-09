@@ -12,6 +12,21 @@ en niet Apple-genotariseerd. Maak vóór installeren een actuele gegevensback-up
 Bestaande brugversies kunnen hetzelfde pakket via de ondertekende app-updater
 ontvangen. Tussenupdates zijn niet nodig.
 
+## Versie 1.3.19
+
+[Release-uitleg](RELEASE-NOTES-1.3.19.md) ·
+[Installer 1.3.19](VakInZicht%20Kunstvakken%201.3.19.pkg) ·
+[Controlesommen](CHECKSUMS-1.3.19.txt)
+
+- Nieuwe toetsanalyse: onderdelen, klassen, leerlingen en niveaus vergelijken.
+- Analyse als PDF met eigen evaluatie, optionele inhoud en compacte metadata.
+- Rustige details, sortering, klasselectie en herkenbare verschillen tussen klassen.
+- Nettere inhaaluurlijsten, A4-afdrukvoorbeelden en PDF-opmaak.
+
+Eerdere bibliotheek-, agenda-, lesnotitie- en beoordelingsfuncties blijven behouden.
+Geen telefoonupdate, cloudactivering, gewijzigde collega-rechten of automatische
+prullenbakopruiming. Niveau-per-klasmatrix in de PDF volgt later.
+
 ## Versie 1.3.18
 
 [Release-uitleg](RELEASE-NOTES-1.3.18.md) ·
