@@ -12,6 +12,28 @@ en niet Apple-genotariseerd. Maak vóór installeren een actuele gegevensback-up
 Bestaande brugversies kunnen hetzelfde pakket via de ondertekende app-updater
 ontvangen. Tussenupdates zijn niet nodig.
 
+## Versie 1.3.22
+
+[Release-uitleg](RELEASE-NOTES-1.3.22.md) ·
+[Installer 1.3.22](VakInZicht%20Kunstvakken%201.3.22.pkg) ·
+[Controlesommen](CHECKSUMS-1.3.22.txt)
+
+- Klassen/lesgroepen en leerlingniveau’s uit SOM toevoegen en bijwerken.
+- Duidelijkere niveaucontrole en schooljaarbestanden delen met collega’s.
+- Analyse per beoordeling.
+- Rubrics delen, mappen slepen en verwijderd materiaal terugzetten.
+- Kleine bugfixes.
+
+Schooljaarbestanden bewaren lesgroepkoppelingen en H→TL*-herkomst. Werk ook de
+app van ontvangende collega’s bij; oudere apps weigeren het nieuwe formaat.
+Oude schooljaarbestanden blijven leesbaar.
+
+Niveaus bij bestaande beoordelingen bewust controleren via Beoordelingen → ⋯ →
+Leerlingniveaus. Bij verwijdering uit een klas vervallen bijbehorende bestaande
+openstaande meldingen en leerlingtaken; resultaten en registraties blijven behouden.
+Geen telefoonupdate, cloudactivering, gewijzigde collega-rechten of automatische
+prullenbakopruiming.
+
 ## Versie 1.3.21
 
 [Release-uitleg](RELEASE-NOTES-1.3.21.md) ·
