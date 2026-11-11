@@ -12,6 +12,21 @@ en niet Apple-genotariseerd. Maak vóór installeren een actuele gegevensback-up
 Bestaande brugversies kunnen hetzelfde pakket via de ondertekende app-updater
 ontvangen. Tussenupdates zijn niet nodig.
 
+## Versie 1.3.20
+
+[Release-uitleg](RELEASE-NOTES-1.3.20.md) ·
+[Installer 1.3.20](VakInZicht%20Kunstvakken%201.3.20.pkg) ·
+[Controlesommen](CHECKSUMS-1.3.20.txt)
+
+- Klassen uit SOM toevoegen en bijwerken met één helder controleoverzicht.
+- Niveaus per leerjaar, herkenbare TL*-omzetting en behoud van eerdere resultaten.
+- Rustigere analyse met uitgelijnde scores, instelbare weergave en klasvergelijking.
+- Analyse-PDF in Kort, Standaard of Uitgebreid, met instelbare details en niveauvergelijking per klas.
+
+Eerdere bibliotheek-, agenda-, lesnotitie- en beoordelingsfuncties blijven behouden.
+Geen telefoonupdate, cloudactivering, gewijzigde collega-rechten of automatische
+prullenbakopruiming.
+
 ## Versie 1.3.19
 
 [Release-uitleg](RELEASE-NOTES-1.3.19.md) ·
